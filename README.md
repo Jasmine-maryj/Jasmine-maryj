@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on web development projects
+- 🔭 I’m currently working on Java projects
 - 📫 How to reach me: https://twitter.com/Jasmine_John_
 - 😄 Pronouns: she/her
 -->
