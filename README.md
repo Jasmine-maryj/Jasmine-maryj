@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Spring framework**
 
-- 💬 Ask me about **Java and Spring Boot**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **jasminemary630@gmail.com**
 
