@@ -33,6 +33,5 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasmine-maryj&show_icons=true&locale=en&layout=compact" alt="jasmine-maryj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasmine-maryj&" alt="jasmine-maryj" /></p>
 
 [![@jasmine_mary's Holopin board](https://holopin.io/api/user/board?user=jasmine_mary)](https://holopin.io/@jasmine_mary)
