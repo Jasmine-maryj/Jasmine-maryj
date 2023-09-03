@@ -10,11 +10,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://twitter.com/Jasmine_John_
 - 😄 Pronouns: she/her
 -->
+
+<img align="right"  alt="Coding" height="400" width="100%"  src="https://github.com/Jasmine-maryj/gif/blob/main/thumbnail.gif">
 <h1 align="center">Hi 👋, I'm Jasmine</h1>
 <h3 align="center">A Java developer</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasmine-maryj&label=Profile%20views&color=0e75b6&style=flat" alt="jasmine-maryj" /> </p>
+
 
 - 🌱 I’m currently learning **Spring framework**
 
