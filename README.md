@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasmine-maryj&show_icons=true&locale=en&layout=compact" alt="jasmine-maryj" /></p>
 
 
-[![@jasmine_mary's Holopin board](https://holopin.io/api/user/board?user=jasmine_mary)](https://holopin.io/@jasmine_mary)
+[![An image of @jasmine_mary's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jasmine_mary)](https://holopin.io/@jasmine_mary)
