@@ -6,22 +6,16 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Java projects
 - 📫 How to reach me: https://twitter.com/Jasmine_John_
 - 😄 Pronouns: she/her
 -->
 
 <img align="right"  alt="Coding" height="400" width="100%"  src="https://github.com/Jasmine-maryj/gif/blob/main/thumbnail.gif">
 <h1 align="center">Hi 👋, I'm Jasmine</h1>
-<h3 align="center">A Java developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasmine-maryj&label=Profile%20views&color=0e75b6&style=flat" alt="jasmine-maryj" /> </p>
 
-
-- 🌱 I’m currently learning **Spring framework**
-
-- 💬 Ask me about **Java**
 
 - 📫 How to reach me **jasminemary630@gmail.com**
 
