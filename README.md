@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 <img align="right"  alt="Coding" height="400" width="100%"  src="https://github.com/Jasmine-maryj/gif/blob/main/thumbnail.gif">
-<h1 align="center">Hi 👋, I'm Jasmine</h1>
+Hi 👋, I'm Jasmine
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasmine-maryj&label=Profile%20views&color=0e75b6&style=flat" alt="jasmine-maryj" /> </p>
