@@ -5,11 +5,12 @@
 **Jasmine-maryj/Jasmine-maryj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 📫 How to reach me: https://twitter.com/Jasmine_John_
 - 😄 Pronouns: she/her
 - I'm currently learning Flutter 
--->
+
 
 <img align="right"  alt="Coding" height="400" width="100%"  src="https://github.com/Jasmine-maryj/gif/blob/main/thumbnail.gif">
 
