@@ -8,10 +8,12 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: https://twitter.com/Jasmine_John_
 - 😄 Pronouns: she/her
+- I'm currently learning Flutter 
 -->
 
 <img align="right"  alt="Coding" height="400" width="100%"  src="https://github.com/Jasmine-maryj/gif/blob/main/thumbnail.gif">
-Hi 👋, I'm Jasmine
+
+<h6>Hi 👋, I'm Jasmine</h6>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasmine-maryj&label=Profile%20views&color=0e75b6&style=flat" alt="jasmine-maryj" /> </p>
@@ -30,7 +32,7 @@ Hi 👋, I'm Jasmine
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasmine-maryj&show_icons=true&locale=en&layout=compact" alt="jasmine-maryj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasmine-maryj&" alt="jasmine-maryj" /></p>
+
 
 
 [![An image of @jasmine_mary's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jasmine_mary)](https://holopin.io/@jasmine_mary)
